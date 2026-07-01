@@ -41,41 +41,10 @@
 
 <br/>
 
-## 🚀 public builds
-
-<div align="center">
-  <a href="https://github.com/1mp3ctz/spuk">
-    <img src="https://raw.githubusercontent.com/1mp3ctz/1mp3ctz/output/pin-spuk.svg" alt="spuk — private, local and free dictation"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/1mp3ctz/codex-coach">
-    <img src="https://raw.githubusercontent.com/1mp3ctz/1mp3ctz/output/pin-codex-coach.svg" alt="codex-coach — grade-and-learn loop for code review"/>
-  </a>
-</div>
-
-<br/>
-
-## 🔬 meanwhile, in the lab…
-
-16 private repos where the weird stuff happens:
-
-| project | what it does |
-|---|---|
-| **MurxUI** | local-first ai chat workbench — its agents build new features for it overnight |
-| **JARVIS** | always-on voice daemon for my mac. tony stark mode: activated |
-| **Mylyfe** | ios lifestyle tracker with a living companion you feed by photographing your meals |
-| **DevDock** | native macos menu-bar cockpit that tames all my dev servers |
-| **Tanky Wars** | 3d tank capture-the-flag in unity — for balance |
-| *…and 11 more* | *discord research bots, a psd2 finance dashboard, security tooling, meta-configs* |
-
-<br/>
-
 ## 📊 the dashboard
 
 <div align="center">
   <img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=1mp3ctz&custom_title=commit%20waves%20%C2%B7%20last%2031%20days&bg_color=060913&color=93A5C8&title_color=22D3EE&line=8B5CF6&point=F472B6&area=true&hide_border=true&radius=16" alt="commit dashboard — activity over the last 31 days"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/1mp3ctz/1mp3ctz/output/languages.svg" alt="favourite languages"/>
 </div>
 
 <br/>
