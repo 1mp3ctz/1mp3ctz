@@ -45,11 +45,11 @@
 
 <div align="center">
   <a href="https://github.com/1mp3ctz/spuk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1mp3ctz&repo=spuk&bg_color=0B1020&title_color=22D3EE&text_color=9BA8C4&icon_color=8B5CF6&border_color=223055&description_lines_count=3" alt="spuk — private, local and free dictation"/>
+    <img src="https://raw.githubusercontent.com/1mp3ctz/1mp3ctz/output/pin-spuk.svg" alt="spuk — private, local and free dictation"/>
   </a>
   &nbsp;
   <a href="https://github.com/1mp3ctz/codex-coach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1mp3ctz&repo=codex-coach&bg_color=0B1020&title_color=22D3EE&text_color=9BA8C4&icon_color=8B5CF6&border_color=223055&description_lines_count=3" alt="codex-coach — grade-and-learn loop for code review"/>
+    <img src="https://raw.githubusercontent.com/1mp3ctz/1mp3ctz/output/pin-codex-coach.svg" alt="codex-coach — grade-and-learn loop for code review"/>
   </a>
 </div>
 
@@ -75,7 +75,7 @@
 <div align="center">
   <img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=1mp3ctz&custom_title=commit%20waves%20%C2%B7%20last%2031%20days&bg_color=060913&color=93A5C8&title_color=22D3EE&line=8B5CF6&point=F472B6&area=true&hide_border=true&radius=16" alt="commit dashboard — activity over the last 31 days"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mp3ctz&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=favourite%20languages&bg_color=0B1020&title_color=22D3EE&text_color=C4CEE8&border_color=223055&border_radius=12" alt="favourite languages"/>
+  <img src="https://raw.githubusercontent.com/1mp3ctz/1mp3ctz/output/languages.svg" alt="favourite languages"/>
 </div>
 
 <br/>

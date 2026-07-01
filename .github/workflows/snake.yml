@@ -1,4 +1,4 @@
-name: generate contribution snake
+name: generate profile assets
 
 on:
   schedule:
@@ -11,10 +11,18 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  assets:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: generate aurora cards (languages + repo pins)
+        run: python3 scripts/generate_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: generate snake grids
         uses: Platane/snk/svg-only@v3
         with:
