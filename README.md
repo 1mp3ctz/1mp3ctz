@@ -59,11 +59,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="assets/footer.svg" alt="aurora waves" width="100%"/>
-</div>
-
-<p align="center">
-  <sub><b>full disclosure:</b> this page — including its animations — was designed, built and shipped by my own ai agents. i just approved the vibe. ✨</sub>
-</p>
