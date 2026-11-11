@@ -40,12 +40,6 @@
 
 <br/>
 
-## 📊 the dashboard
-
-<div align="center">
-  <img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=1mp3ctz&custom_title=commit%20waves%20%C2%B7%20last%2031%20days&bg_color=060913&color=93A5C8&title_color=22D3EE&line=8B5CF6&point=F472B6&area=true&hide_border=true&radius=16" alt="commit dashboard — activity over the last 31 days"/>
-</div>
-
 <br/>
 
 ## 🐍 the snake eats my commits
